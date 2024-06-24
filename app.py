@@ -17,4 +17,5 @@ async def index(request: Request) -> HTMLResponse:
 import uvicorn
 
 if __name__ == "__main__":
-    uvicorn.run(app)  # , host="62.109.29.105")
+    # uvicorn.run(app)  # , host="62.109.29.105")
+    pass
